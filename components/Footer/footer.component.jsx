@@ -4,8 +4,10 @@ const Footer = () => {
   return (
     <>
       <footer>
-        <p className="text-center mt-4 mb-4">
-          &copy;{new Date().getFullYear()} | Made with 💖 by TCode
+        <p className="text-center mt-4">
+          &copy;{new Date().getFullYear()} | Made with 💖 by TCode <br />
+         <b> Telefono:</b> 54627157 <br/>
+         <b>Facebook Page:</b> "***" 
         </p>
       </footer>
     </>
