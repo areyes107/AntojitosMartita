@@ -4,7 +4,7 @@ import Navbar from "react-bootstrap/Navbar";
 
 const NavBar = () => {
   return (
-    <Navbar bg="dark" variant="dark" expand="lg">
+    <Navbar bg="dark" position='fixed' variant="dark" expand="lg">
       <Navbar.Brand href="#home">
         <img
           alt="Hamburguer logo"
