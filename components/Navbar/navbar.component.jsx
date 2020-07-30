@@ -8,7 +8,7 @@ const NavBar = () => {
       <Navbar.Brand href="#home">
         <img
           alt="Hamburguer logo"
-          src="https://img.icons8.com/emoji/48/000000/hamburger-emoji.png"
+          src="https://i.ibb.co/0m2Y0jG/Favicon.png"
           width="30"
           height="30"
           className="d-inline-block align-top"
